@@ -1,0 +1,28 @@
+{
+  "name": "repoapp",
+  "version": "0.0.1",
+  "description": "Book Movie tickets online",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "express": "^4.15.4"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "rutuja",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/npm/npm/issues"
+  },
+  "homepage": "https://github.com/npm/npm#readme",
+  "keywords": [
+    "code"
+  ]
+}

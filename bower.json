@@ -1,0 +1,25 @@
+{
+  "name": "repoapp",
+  "description": "code",
+  "main": "index.js",
+  "authors": [
+    "rutuja"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7"
+  },
+  "keywords": [
+    "code"
+  ]
+}
